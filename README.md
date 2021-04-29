@@ -1,3 +1,6 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/CaileanCarter/FASTAfromBLAST.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/CaileanCarter/FASTAfromBLAST/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/CaileanCarter/FASTAfromBLAST.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/CaileanCarter/FASTAfromBLAST/context:python)
+
 # FASTAfromBLAST
 Extract FASTA sequences of regions of genome assemblies from NCBI BLAST alignments
 
